@@ -84,7 +84,7 @@ NO
 TOTAL_PROGRAMA=2050
 ```
 _(escribí el número que imprimió el programa)_
-
+ 
 ---
 
 ## Parte 2: El framework de testing
